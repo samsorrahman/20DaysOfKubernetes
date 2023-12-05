@@ -1,7 +1,6 @@
 # Day 1: Introduction to Kubernetes
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
-[![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/samsor-rahman18/)
+[![GitHub stars](https://img.shields.io/github/stars/samsorrahman/20DaysOfKubernetes)](https://github.com/samsorrahman/20DaysOfKubernetes/stargazers)
 
 Welcome to Day 1 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, we'll dive into the fundamental concepts of Kubernetes and understand why it's essential in modern containerized applications.
 
