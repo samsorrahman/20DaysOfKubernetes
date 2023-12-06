@@ -32,4 +32,5 @@ By the end of today, you will:
 
 Enjoy your journey of learning Kubernetes!
 
-[Next Day →]README.md)
+
+[Next Day →](../Day02/README.md)
