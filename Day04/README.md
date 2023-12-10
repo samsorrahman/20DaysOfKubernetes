@@ -32,4 +32,4 @@ By the end of today, you will:
 
 Setting up a local Kubernetes cluster with Minikube is a valuable skill for development and testing. Tomorrow, we'll delve into kubeconfig files and YAML for deploying applications and services.
 
-[← Previous Day](../Day03/README.md) 
+[← Previous Day](../Day03/README.md) | [Next Day →](../Day05/README.md)
