@@ -1,7 +1,7 @@
 # Day 5: kubeconfig Files and YAML (Deployment and Service)
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/samsor-rahman18/)
 
-Welcome to Day 5 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll understand kubeconfig files and learn to write YAML files for deploying applications and services.
+Welcome to Day 5 of the Kubernetes 20-Day Learning Challenge! 🚀 Today, you'll understand kubeconfig files and learn to write YAML files for deploying applications and services.
 
 ## 📋 Learning Objectives
 
@@ -31,4 +31,4 @@ By the end of today, you will:
 
 Understanding kubeconfig files and YAML for deployments is fundamental for managing Kubernetes applications. Tomorrow, we'll deploy our first application on Kubernetes.
 
-[← Previous Day](../Day04/README.md) 
+[← Previous Day](../Day04/README.md) [Next Day →](../Day06/README.md)
