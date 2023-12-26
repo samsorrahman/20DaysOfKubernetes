@@ -32,4 +32,4 @@ By the end of today, you will:
 
 Deploying your first application is an exciting step in your Kubernetes journey. Tomorrow, we'll explore the use of labels and selectors.
 
-[← Previous Day](../Day05/README.md) 
+[← Previous Day](../Day05/README.md) | [Next Day →](../Day07/README.md)
