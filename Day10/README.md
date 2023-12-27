@@ -33,4 +33,4 @@ By the end of today, you will:
 
 Setting up Kubernetes master and worker nodes on a cloud provider is a crucial step in preparing your cluster for real-world applications. Tomorrow, we'll explore Kubernetes Services.
 
-[← Previous Day](../Day09/README.md) 
+[← Previous Day](../Day09/README.md) | [Next Day →](../Day11/README.md)
