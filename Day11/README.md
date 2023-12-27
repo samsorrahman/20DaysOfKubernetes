@@ -32,4 +32,4 @@ By the end of today, you will:
 
 Understanding Kubernetes Services is crucial for ensuring reliable communication and load balancing within your applications. Tomorrow, we'll delve into advanced Kubernetes networking concepts.
 
-[← Previous Day](../Day10/README.md) 
+[← Previous Day](../Day10/README.md) | [Next Day →](../Day12/README.md)
